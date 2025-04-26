@@ -1,11 +1,5 @@
 # sum_of_list fuction
 def sum_of_list(lst):
-    """
-    This function takes a list of numbers as input and returns the sum of the numbers in the list.
-    
-    :param lst: List of numbers
-    :return: Sum of the numbers in the list
-    """
     total = 0
     for num in lst:
         total += num
